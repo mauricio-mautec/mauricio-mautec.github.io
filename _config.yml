@@ -1,0 +1,19 @@
+# Site settings
+title: Mauricio Junqueira
+description: About Me
+# baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://mauvis.github.io"
+
+# User settings
+username: Mauricio Junqueir
+user_description: I'm enjoy hacking/optimizing systems and code software at daily basis. My interests are very broad regarding languages and hardware. C/C++ are the language that I've written most lines of code and I'm currently working as back end developer focused in food market. When coding in Linux I use vim, makefiles and git. I have software written on Windows in C++ and Delphi using embarcadero's RAD Studio. My primary computer is a mac and I like spending time in Xcode compiling software for iOS. Love Python, Arduino and the likes, RaspBery Pi and make IOT devices with them!
+user_title: Electrical Engineer / Software Developer
+email: mauvis@gmail.com
+twitter_username: @mauvis
+github_username:  mauricio-mautec
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']

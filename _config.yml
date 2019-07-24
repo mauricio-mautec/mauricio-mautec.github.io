@@ -6,7 +6,7 @@ url: "https://mauvis.github.io"
 
 # User settings
 username: Mauricio Junqueira
-user_description: I'm enjoy hacking/optimizing systems and code software at daily basis. My interests are very broad regarding languages and hardware. C/C++ are the language that I've written most lines of code and I'm currently working as back end developer focused in food market. When coding in Linux I use vim, makefiles and git. I have software written on Windows in C++ and Delphi using embarcadero's RAD Studio. My primary computer is a mac and I like spending time in Xcode compiling software for iOS. Love Python, Arduino and the likes, RaspBery Pi and make IOT devices with them!
+user_description: enjoy hacking/optimizing systems and code software at daily basis. very broad interests regarding computer languages and hardware. most of code I write is using C/C++ and lately Python. currently working as back end developer in a startup focused in food market. Like Linux (SuSE, raspbian), vim, makefiles, git, TDD. have software written on Windows using embarcadero's RAD Studio in C++ and Delphi. my primary computer is a mac and I like spending time in Xcode compiling software for iOS. have loads of microcontrolers to code in C. love Python, Arduino, RaspBery Pi and to make IOT devices with them!
 user_title: Electrical Engineer / Software Developer
 email: mauvis@gmail.com
 twitter_username: mauvis
@@ -17,3 +17,4 @@ google-analytics:
   id: ""
 
 exclude: ['package.json', 'src' , 'node_modules']
+
